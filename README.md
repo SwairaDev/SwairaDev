@@ -22,6 +22,5 @@ I'm expanding my knowledge in:
 ## 📫 How to Reach Me
 
 - Email: swairaarshad741852@gmail.com
-- LinkedIn: linkedin.com/in/swaira-arshad-9a71502bb
-
+- LinkedIn: https://www.linkedin.com/in/swaira-arshad-9a71502bb/
 Feel free to explore my repositories and reach out if you'd like to collaborate on a project or have any questions.
