@@ -5,7 +5,6 @@ I'm a passionate Front-End Developer with a strong foundation in HTML, CSS, Java
 ## 🔧 Technologies & Tools
 
 - **Front-End:** HTML, CSS, JavaScript, React, Tailwind CSS, SCSS (Sass)
-- **Databases:** [Any databases you've worked with]
 - **Tools & Platforms:** Git, GitHub, Vs code
 
 ## 🌱 What I'm Currently Learning
@@ -14,7 +13,6 @@ I'm expanding my knowledge in:
 
 - Advanced React patterns and state management
 - Integrating Machine Learning models into web applications
-- [Any other technologies or topics you're exploring]
 
 ## 💼 Professional Experience
 
@@ -23,8 +21,7 @@ I'm expanding my knowledge in:
 
 ## 📫 How to Reach Me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Portfolio: [Your Portfolio Website](https://yourportfolio.com)
+- Email: swairaarshad741852@gmail.com
+- LinkedIn: linkedin.com/in/swaira-arshad-9a71502bb
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on a project or have any questions.
